@@ -1,0 +1,49 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: 'Roboto', 'sans-serif';
+}
+
+.nav-menu {
+    float: right;
+}
+
+.nav-link {
+    text-decoration: none;
+    color: black;
+    font-size: 30px;
+}
+
+li {
+    list-style-type: none;
+    margin-right: 25px;
+    font-size: 1.1rem;
+}
+
+.nav-navbar {
+    display: flex;
+}
+
+.brand-name {
+    float: left;
+}
+
+.navbar {
+    margin: 35px;
+}
+
+.menu-text h1 p {
+    float: right;
+    margin-top: 100px;
+    border: 1px solid black;
+}
+
+.menu-image img {
+    float: right;
+    margin-right: 20px;
+    /* border: 1px solid black; */
+}
+
+.container {
+    margin: 5px;
+}
